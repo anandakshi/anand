@@ -1,0 +1,2 @@
+# anand
+The course- ware is divided into teaching the basic concepts of software testing and then covering practical software testing with approach of writing testcases, reporting bugs, regression testing and test planning. Students will learn the following concepts under Software Testing – Manual Testing + QA + Bugzilla + Jira+ QC, SQL + Database Testing, Basic &amp; Advanced HP QTP / UFT 11.5, Basic &amp; Advanced Selenium. Also will get to work on real time projects which will be helpful to face the real-time challenges successfully in a job.
